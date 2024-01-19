@@ -5,7 +5,7 @@
   "main": "dist/yawn.js",
   "dependencies": {
     "js-yaml": "^3.4.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "yaml-js": "^0.2.3"
   },
   "devDependencies": {

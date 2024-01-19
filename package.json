@@ -4,9 +4,9 @@
   "description": "YAML parser that preserves comments and styling",
   "main": "dist/yawn.js",
   "dependencies": {
-    "js-yaml": "^3.4.2",
-    "lodash": "^4.17.11",
     "yaml-js": "^0.3.1"
+    "js-yaml": "^3.14.1",
+    "lodash": "^4.17.21",
   },
   "devDependencies": {
     "chai": "^3.3.0",
